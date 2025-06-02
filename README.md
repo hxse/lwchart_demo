@@ -1,4 +1,4 @@
-# svelte quantitative trading framework
+# svelte ohlc chart
   * 如何自定义指标
     * 在src\data\data.js文件中创建数据结构
     * 在src\content\createChart.js文件中创建指标布局
